@@ -1,0 +1,15 @@
+{
+  "name": "postgress_node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "pg": "8.7.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "lemonaj58",
+  "license": "ISC",
+  "description": ""
+}
